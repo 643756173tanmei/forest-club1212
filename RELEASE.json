@@ -1,0 +1,24 @@
+{
+  "version": "forest-club-20261101-r4",
+  "questions": 1705,
+  "wordPacks": 200,
+  "pictureFillTasks": 8,
+  "conversationScenes": 21,
+  "wardrobeEntries": 57,
+  "audioFiles": 689,
+  "testsPassed": 20,
+  "serverDeployed": false,
+  "fillTasks": 228,
+  "listeningGapTasks": 200,
+  "spokenAnswerTasks": 0,
+  "listeningAnswerChoices": 21,
+  "letterTeamTasks": 20,
+  "huntStorybookScenes": 20,
+  "moduleQuestionCounts": {
+    "phonics": 693,
+    "vocabulary": 796,
+    "sentences": 193,
+    "conversation": 23
+  },
+  "separatePracticeMenu": false
+}
